@@ -78,17 +78,8 @@ Lifestyle choices, particularly **smoking**, along with **age and BMI**, play a 
 
 ---
 
-## 🤖 Use of AI Tools
-- Tool Used: Gemini 2.5 Pro  
-- Purpose: Minor language refinement and code verification  
-- AI Usage: ~3% (as per Quillbot)  
-
----
-
 ## 👨‍💻 Author
 **Prateek Garg**  
-CSE (V)  
-Data Analytics Using Python  
 
 ---
 
